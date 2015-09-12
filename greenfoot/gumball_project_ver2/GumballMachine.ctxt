@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GumballMachine()
+comment1.params=msg
+comment1.target=void\ displayMessage(java.lang.String)
+comment2.params=
+comment2.target=void\ inspectCoin()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
